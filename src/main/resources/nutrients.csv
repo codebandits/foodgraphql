@@ -1,0 +1,147 @@
+id,typeTag,name,unit,notes
+203,PROCNT,Protein,g, N/A
+204,FAT,Total lipid (fat),g, N/A
+205,CHOCDF,"Carbohydrate, by difference",g, N/A
+207,ASH,Ash,g, N/A
+208,ENERC_KCAL,Energy,kcal, N/A
+209,STARCH,Starch,g, N/A
+210,SUCS,Sucrose,g, N/A
+211,GLUS,Glucose (dextrose),g, N/A
+212,FRUS,Fructose,g, N/A
+213,LACS,Lactose,g, N/A
+214,MALS,Maltose,g, N/A
+221,ALC,"Alcohol, ethyl",g, N/A
+255,WATER,Water,g, N/A
+257,NULL,Adjusted Protein,g, N/A
+262,CAFFN,Caffeine,mg, N/A
+263,THEBRN,Theobromine,mg, N/A
+268,ENERC_KJ,Energy,kJ, N/A
+269,SUGAR,"Sugars, total",g, N/A
+287,GALS,Galactose,g, N/A
+291,FIBTG,"Fiber, total dietary",g, N/A
+301,CA,"Calcium, Ca",mg, N/A
+303,FE,"Iron, Fe",mg, N/A
+304,MG,"Magnesium, Mg",mg, N/A
+305,P,"Phosphorus, P",mg, N/A
+306,K,"Potassium, K",mg, N/A
+307,NA,"Sodium, Na",mg, N/A
+309,ZN,"Zinc, Zn",mg, N/A
+312,CU,"Copper, Cu",mg, N/A
+313,FLD,"Fluoride, F",microgram, N/A
+315,MN,"Manganese, Mn",mg, N/A
+317,SE,"Selenium, Se",microgram, N/A
+318,VITA_IU,"Vitamin A, IU",IU, N/A
+319,RETOL,Retinol,microgram, N/A
+320,VITA_RAE,"Vitamin A, RAE",microgram, N/A
+321,CARTB,"Carotene, beta",microgram, N/A
+322,CARTA,"Carotene, alpha",microgram, N/A
+323,TOCPHA,Vitamin E (alpha-tocopherol),mg, N/A
+324,VITD,Vitamin D,IU, N/A
+325,ERGCAL,Vitamin D2 (ergocalciferol),microgram, N/A
+326,CHOCAL,Vitamin D3 (cholecalciferol),microgram, N/A
+328,VITD,Vitamin D (D2 + D3),microgram, N/A
+334,CRYPX,"Cryptoxanthin, beta",microgram, N/A
+337,LYCPN,Lycopene,microgram, N/A
+338,LUT+ZEA,Lutein + zeaxanthin,microgram, N/A
+341,TOCPHB,"Tocopherol, beta",mg, N/A
+342,TOCPHG,"Tocopherol, gamma",mg, N/A
+343,TOCPHD,"Tocopherol, delta",mg, N/A
+401,VITC,"Vitamin C, total ascorbic acid",mg, N/A
+404,THIA,Thiamin,mg, N/A
+405,RIBF,Riboflavin,mg, N/A
+406,NIA,Niacin,mg, N/A
+410,PANTAC,Pantothenic acid,mg, N/A
+415,VITB6A,Vitamin B-6,mg, N/A
+417,FOL,"Folate, total",microgram, N/A
+418,VITB12,Vitamin B-12,microgram, N/A
+421,CHOLN,"Choline, total",mg, N/A
+428,MK4,Menaquinone-4,microgram, N/A
+429,VITK1D,Dihydrophylloquinone,microgram, N/A
+430,VITK1,Vitamin K (phylloquinone),microgram, N/A
+431,FOLAC,Folic acid,microgram, N/A
+432,FOLFD,"Folate, food",microgram, N/A
+435,FOLDFE,"Folate, DFE",microgram, N/A
+454,BETN,Betaine,mg, N/A
+501,TRP_G,Tryptophan,g, N/A
+502,THR_G,Threonine,g, N/A
+503,ILE_G,Isoleucine,g, N/A
+504,LEU_G,Leucine,g, N/A
+505,LYS_G,Lysine,g, N/A
+506,MET_G,Methionine,g, N/A
+507,CYS_G,Cystine,g, N/A
+508,PHE_G,Phenylalanine,g, N/A
+509,TYR_G,Tyrosine,g, N/A
+510,VAL_G,Valine,g, N/A
+511,ARG_G,Arginine,g, N/A
+512,HISTN_G,Histidine,g, N/A
+513,ALA_G,Alanine,g, N/A
+514,ASP_G,Aspartic acid,g, N/A
+515,GLU_G,Glutamic acid,g, N/A
+516,GLY_G,Glycine,g, N/A
+517,PRO_G,Proline,g, N/A
+518,SER_G,Serine,g, N/A
+521,HYP,Hydroxyproline,g, N/A
+573,NULL,"Vitamin E, added",mg, N/A
+578,NULL,"Vitamin B-12, added",microgram, N/A
+601,CHOLE,Cholesterol,mg, N/A
+605,FATRN,"Fatty acids, total trans",g, N/A
+606,FASAT,"Fatty acids, total saturated",g, N/A
+607,F4D0,4:00,g, N/A
+608,F6D0,6:00,g, N/A
+609,F8D0,8:00,g, N/A
+610,F10D0,10:00,g, N/A
+611,F12D0,12:00,g, N/A
+612,F14D0,14:00,g, N/A
+613,F16D0,16:00,g, N/A
+614,F18D0,18:00,g, N/A
+615,F20D0,20:00,g, N/A
+617,F18D1,18:1 undifferentiated,g, N/A
+618,F18D2,18:2 undifferentiated,g, N/A
+619,F18D3,18:3 undifferentiated,g, N/A
+620,F20D4,20:4 undifferentiated,g, N/A
+621,F22D6,22:6 n-3 (DHA),g,omega-3 docosahexaenoic acid N/A
+624,F22D0,22:00,g, NA
+625,F14D1,14:01,g, N/A
+626,F16D1,16:1 undifferentiated,g, N/A
+627,F18D4,18:04,g, N/A
+628,F20D1,20:01,g, N/A
+629,F20D5,20:5 n-3 (EPA),g,omega-3 eicosapentaenoic acid N/A
+630,F22D1,22:1 undifferentiated,g,
+631,F22D5,22:5 n-3 (DPA),g, N/A
+636,PHYSTR,Phytosterols,mg, N/A
+638,STID7,Stigmasterol,mg, N/A
+639,CAMD5,Campesterol,mg, N/A
+641,SITSTR,Beta-sitosterol,mg, N/A
+645,FAMS,"Fatty acids, total monounsaturated",g, N/A
+646,FAPU,"Fatty acids, total polyunsaturated",g, N/A
+652,F15D0,15:00,g, N/A
+653,F17D0,17:00,g, N/A
+654,F24D0,24:00:00,g, N/A
+662,F16D1T,16:1 t,g, N/A
+663,F18D1T,18:1 t,g, N/A
+664,NULL,22:1 t,g, N/A
+665,NULL,18:2 t not further defined,g, N/A
+666,NULL,18:2 i,g, N/A
+669,F18D2TT,"18:2 t,t",g, N/A
+670,F18D2CLA,18:2 CLAs,g, N/A
+671,F24D1C,24:1 c,g, N/A
+672,F20D2CN6,"20:2 n-6 c,c",g, N/A
+673,F16D1C,16:1 c,g, N/A
+674,F18D1C,18:1 c,g, N/A
+675,F18D2CN6,"18:2 n-6 c,c",g, N/A
+676,NULL,22:1 c,g, N/A
+685,F18D3CN6,"18:3 n-6 c,c,c",g, N/A
+687,F17D1,17:01,g, N/A
+689,F20D3,20:3 undifferentiated,g, N/A
+693,FATRNM,"Fatty acids, total trans-monoenoic",g, N/A
+695,FATRNP,"Fatty acids, total trans-polyenoic",g, N/A
+696,F13D0,13:00,g, N/A
+697,F15D1,15:01,g, N/A
+851,F18D3CN3,"18:3 n-3 c,c,c (ALA)",g,omega-3 alpha-linolenic acid N/A
+852,F20D3N3,20:3 n-3,g, N/A
+853,F20D3N6,20:3 n-6,g, N/A
+855,F20D4N6,20:4 n-6,g, N/A
+856,NULL,18:3i,g, N/A
+857,F21D5,21:05,g, N/A
+858,F22D4,22:04,g, N/A
+859,F18D1TN7,18:1-11t (18:1t n-7),g, N/A
